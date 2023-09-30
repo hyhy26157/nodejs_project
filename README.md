@@ -1,4 +1,4 @@
-1) how to run -> cd to project - type node app.js to run
+
 
 http://localhost:3000/ url display all data from Topics Database
 
